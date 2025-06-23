@@ -15,7 +15,6 @@ Projeto backend em Node.js simulando um carrinho de compras simples com funciona
 
 ## ▶️ Como rodar
 
-git clone https://github.com/Princyrr/carrinhoshopee.git
-cd carrinhoshopee
-npm install
-npm run dev
+* git clone https://github.com/Princyrr/carrinhoshopee.git
+* cd carrinhoshopee
+
